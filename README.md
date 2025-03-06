@@ -34,6 +34,7 @@
    ```bash
    git clone https://github.com/Zphyr00/Smeshariki.git
    cd Smeshariki
+   ```
 
 2. **Создайте виртуальное окружение (опционально):**
 
@@ -42,11 +43,13 @@
    python -m venv venv
    source venv/bin/activate   # Для Unix-систем
    venv\Scripts\activate      # Для Windows
+   ```
 
 3. **Установите зависимости:**
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 Убедитесь, что PyTorch распознаёт ваше устройство.
 
@@ -56,6 +59,7 @@
 
    ```bash
    python smeshariki.py
+   ```
 
 После запуска откроется графический интерфейс, через который можно наблюдать за симуляцией, а также сохранять или загружать состояние.
 
