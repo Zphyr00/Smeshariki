@@ -1,4 +1,4 @@
-![Скриншот к проекту](https://github.com/Zphyr00/Smeshariki/raw/master/image/image_2025-03-06_12-19-26.png)
+![Скриншот к проекту](https://github.com/Zphyr00/Smeshariki/blob/main/image_2025-03-06_12-19-26.png)
 
 # Smeshariki Simulation
 
